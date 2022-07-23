@@ -119,7 +119,7 @@
 
    1. Refresh Token의 요청 시간과 DB에 저장된 Refresh Token의 만료 시간과 비교하여 72시간 미만으로 차이나면 서버에서 자동으로 Refresh Token의 만료 시간 갱신
 
-<img src="/Users/soeunlee/Library/Application Support/typora-user-images/image-20220723231241323.png" alt="image-20220723231241323" style="zoom: 50%;" />
+<img width="458" alt="무제" src="https://user-images.githubusercontent.com/52341650/180610130-484f721e-95eb-4a84-ad0b-7d8242244776.png">
 
 
 
