@@ -54,3 +54,10 @@ ex) [Android | Soeun] - Android Hilt에 대해서 알아보자.md
 	- docs: 제목 자유 (단, docs name 포함)
 ```
 
+- Reference
+```markdown
+이 스터디에 가장 많이 도움이 되었고, 저희들이 참고한 스터디 진행 방식입니다.
+감사의 말씀 전합니다. 
+https://github.com/All-Rounder-Storage/programmers_knowledge_storage
+```
+
